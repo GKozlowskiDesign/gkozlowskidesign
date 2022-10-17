@@ -7,13 +7,6 @@ Currently taking courses with ACLOUDGURU on Amazon Web Services to help me prepa
 <br><br>
 Also conducting research on the ability to use blockchain as a alternative or hybrid form of storage other than cloud or local. Developing and modeling a system to store metadata via NFT minting application webflows. At a base level Non-Fungible Tokens NFTs have the ability to store data on-chain via JSON Forms by minting metadata attributes and storing them via business employee based wallet on the Interplanetary File System or IPFS.
 
-<h2>Experience</h2>
-<h3>Software Project Manager | Civic Elevator</h3>
-<hr>
-<h3>Marketing Technology Specialist | Day Pitney LLP</h3>
-<hr>
-<h3>Lead Project Developer | AITP</h3>
-
 
 <h2>Connect With Me</h2>
 <p><a href="https://learn.acloud.guru/profile/gkozlowskidesigns">ACloudGuru</p>
