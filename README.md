@@ -8,24 +8,18 @@ Currently taking courses with ACLOUDGURU on Amazon Web Services to help me prepa
 Also conducting research on the ability to use blockchain as a alternative or hybrid form of storage other than cloud or local. Developing and modeling a system to store metadata via NFT minting application webflows. At a base level Non-Fungible Tokens NFTs have the ability to store data on-chain via JSON Forms by minting metadata attributes and storing them via business employee based wallet on the Interplanetary File System or IPFS.
 
 <h2>Experience</h2>
-<h3>Software Project Manager</h3>
-<h4>Civic Elevator</h4>
-<h5>March 2022 - July 2022</h5>
+<h3>Software Project Manager | Civic Elevator</h3>
 <hr>
-<h3>Marketing Technology Specialist</h3>
-<h4>Day Pitney LLP</h4>
-<h5>May 2021 - December 2021</h5>
+<h3>Marketing Technology Specialist | Day Pitney LLP</h3>
 <hr>
-<h3>Lead Project Developer</h3>
-<h4>Assoication of Information Technology Professioanls</h4>
-<h5>January 2021 - May 2021</h5>
+<h3>Lead Project Developer | AITP</h3>
 
 
 <h2>Connect With Me</h2>
-<p><a href="https://www.linkedin.com/in/gary-kozlowski-825053138/">LINKEDIN</p>
-<p><a href="https://twitter.com/GaryKozlowski1">TWITTER</p>
-<p><a href="https://www.instagram.com/gkozlowskidesign/">INSTAGRAM</p>
-<p><a href="https://learn.acloud.guru/profile/gkozlowskidesigns">ACLOUDGURU</p>
+<p><a href="https://learn.acloud.guru/profile/gkozlowskidesigns">ACloudGuru</p>
+<p><a href="https://www.linkedin.com/in/gary-kozlowski-825053138/">LinkedIn</p>
+<p><a href="https://twitter.com/GaryKozlowski1">Twitter</p>
+<p><a href="https://www.instagram.com/gkozlowskidesign/">Instagram</p>
 
 
 
