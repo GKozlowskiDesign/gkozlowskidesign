@@ -1,4 +1,4 @@
-<p align="center"><img height="350px" src="https://user-images.githubusercontent.com/82541715/196609910-07617523-4d92-4a8d-ad25-8985a2bb451d.png">
+<p align="center"><img height="450px" src="https://user-images.githubusercontent.com/82541715/196609910-07617523-4d92-4a8d-ad25-8985a2bb451d.png">
 <h2 align="center">Gary Michael Kozlowski</h2>
 <h2 align="center">Software Development and Information Technology</h2>
 
