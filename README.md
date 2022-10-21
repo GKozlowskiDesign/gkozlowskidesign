@@ -1,6 +1,7 @@
-<p align="center"><img height="400px" src="https://user-images.githubusercontent.com/82541715/197118556-bb4dc592-6f17-4705-91c3-468f64e5534b.png">
+<p align="center"><img height="400px" src="https://user-images.githubusercontent.com/82541715/197122069-0a3aa85e-05ca-4900-a756-d607609f048b.png">
 <h2 align="center">Gary Michael Kozlowski</h2>
 <h2 align="center">Software Development and Information Technology</h2>
+
 
 <h2>Portfolio</h2>
 <a href="https://jocular-queijadas-fbca1c.netlify.app/">Click Here</a>
