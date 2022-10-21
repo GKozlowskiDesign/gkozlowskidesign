@@ -4,7 +4,11 @@
 
 
 <h2>Description</h2>
-Motivated, passionate, and highly driven Information Systems Professional with in depth experience working in a wide variety of technical environments. Comprehensive knowledge of configuring, managing, and troubleshooting entire IT infrastructures at small to medium scale. Exceptionally good at management of SaaS projects and process optimization by organizing, planning, and executing goals. Takes pride in being a team player with excellent communication, delivering results with accuracy and reliability in timely manner.Currently taking courses with ACLOUDGURU on Amazon Web Services to help me prepare for the Cloud Practitioner Certification. Once I pass and complete the AWS cert, I will be moving to Google Firebase fundamentals and then Azure. Also conducting research on the ability to use blockchain as a alternative or hybrid form of storage other than cloud or local. Developing and modeling a system to store metadata via NFT minting application webflows. At a base level Non-Fungible Tokens NFTs have the ability to store data on-chain via JSON Forms by minting metadata attributes and storing them via business employee based wallet on the Interplanetary File System or IPFS.
+My background experience has a focus on managing, designing or developing SaaS and PaaS products or project features with freelance design experience creating modern UI expereinces. I've worked with startups, major corporate enterprises and small local businesses satisfying stakeholders and reaching roadmap goals with proven results.
+
+<br>
+<br>
+I am exceptionally good at software project management from being a team player and supporting members during tight bottleneck sprints helping consistently optimize and adapt to the work-process, managing workflow collaboratively. By takeing pride in being a team player and focusing on communication, organization, planning, following through with strategy, holding people accountable, I have delivered results with accuracy and reliability over and over again always looking for feedback and ways I can grow. I work best with High-Level Managers and Developers by briding the gap between technicality developers communicate with and breaking it down in generality. Products or projects I've work on pertain to software-engineering, cyber-security, cloud-computing, business-operations and marketing.
 
 <h2>Publications</h2>
  <a href="https://metaverseofthings.medium.com/"><img  height="38px" src="https://user-images.githubusercontent.com/82541715/196606369-9c148ad1-6cde-490d-9815-e38c12d3a619.png"></a>
