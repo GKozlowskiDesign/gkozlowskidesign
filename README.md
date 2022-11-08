@@ -1,5 +1,4 @@
-<h2 align="center">Gary Michael Kozlowski</h2>
-<h2 align="center">Software Development and Information Technology</h2>
+
 
 
 <h2>Portfolio</h2>
