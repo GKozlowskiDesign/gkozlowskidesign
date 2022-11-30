@@ -1,53 +1,41 @@
 
+This is the place where I opensource stuff and break things 🤣
+
+- 🔭 I’m currently working on something really cool 😉
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on more open source projects.
+
+### Connect with me:
 
 
-<h2>Portfolio</h2>
-<a href="https://jocular-queijadas-fbca1c.netlify.app/">Click Here</a>
+[<img align="left" alt="garykozlowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="garykozlowski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="garykozlowski | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="garykozlowski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="garykozlowski | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="garykozlowski | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+<br />
 
-<h2>Description</h2>
-Motivated, passionate, and highly driven Information Systems Professional with in depth experience working in a wide variety of technical environments. Comprehensive knowledge of configuring, managing, and troubleshooting entire IT infrastructures at small to medium scale. Background experience in managing, designing, developing SaaS and PaaS products or project features with freelance design experience creating modern UI experiences. 
-<br><br>
-I've worked with startups, major corporate enterprises and small local businesses satisfying stakeholders and reaching roadmap goals with proven results.
-<br><br>
-I am exceptionally good at software project management from leading team members and supporting them during tight bottleneck sprints helping consistently optimize and adapt to the work-process, managing workflow collaboratively. I take pride in being a team player and focusing on communication, organization, planning, following through with strategy, holding people accountable, I have delivered results with accuracy and reliability over and over again always looking for feedback and ways I can grow. 
-<br><br>
-I work best with High-Level Managers and Developers by bridging the gap between technicality developers communicate with and breaking it down in generality. Products or projects I've work on pertain to software-engineering, cyber-security, cloud-computing, business-operations and marketing.
+### Languages and Tools:
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
-<h2>Publications</h2>
-<p align="left">
-  <a href="https://mirror.xyz/0x38034A81D48cBf8D4c4C757856d14492C848015b"><img  height="38px" src="https://user-images.githubusercontent.com/82541715/197119948-4a58712b-4e37-427a-b7f5-5f9d4c5b5326.png"></a>
-   <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><img  height="38px" src="https://user-images.githubusercontent.com/82541715/197120610-1e5f4295-c26b-46ca-92d1-a89b33d4aa14.png"></a>
- <a href="https://metaverseofthings.medium.com/"><img  height="38px" src="https://user-images.githubusercontent.com/82541715/197120443-349c0cd2-eaf2-4d4a-b897-d9feae570e66.png"></a>
- </p>
+<br />
+<br />
 
-
-
-<h2>Connect</h2>
-<p align="left">
-  <a href="https://twitter.com/GaryKozlowski1"><img height="39px" src="https://user-images.githubusercontent.com/82541715/196605722-c43d0376-8e13-448a-a89d-ea1d109bc9c0.png"></a>
-  <a href="https://www.instagram.com/garykozlowski1/"><img  height="39px" src="https://user-images.githubusercontent.com/82541715/197120801-dd240c33-587c-4cd9-825c-804fc5b809a9.png"></a>
-</p>
-
-<h2>Certifications</h2>
-  <a href="https://learn.acloud.guru/profile/gkozlowskidesigns"><img height="43px" src="https://user-images.githubusercontent.com/82541715/196604613-582b3ed0-839e-4a3d-a4ac-b3aa4ce9c269.png"></a>
-  <a href="https://www.linkedin.com/in/gary-kozlowski-825053138/details/certifications/"><img height="44px"src="https://user-images.githubusercontent.com/82541715/197120233-be6be4e8-a524-4c44-bbe2-e7861e90a1c5.png"></a>
-
-<h2>Contact</h2>
- <p align="left">
-  <a href="mailto:gkozlowskibusiness@outlook.com"><img  height="44px" src="https://user-images.githubusercontent.com/82541715/196607335-02be8bd8-e632-4156-9e5c-c9486aa0ff2c.png"></a>
-  </p>
-
-
-
-
-
-
-
-
-
-
-<!---
-gkozlowskidesign/gkozlowskidesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[linkedin]: https://www.linkedin.com/in/gary-kozlowski-825053138/
+[instagram]: https://www.instagram.com/garykozlowski1/?next=%2Fgary_kozlowski1%2F
+[twitter]: https://twitter.com/GaryKozlowski1
+[facebook]: https://www.facebook.com/garyjr.kozlowski/
+[github]: https://github.com/gkozlowskidesign
