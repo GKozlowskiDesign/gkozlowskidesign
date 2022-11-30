@@ -1,6 +1,6 @@
 <h3>Background</h3>
 
-<p>Motivated, passionate, and highly driven Project Manager and Developer with in depth experience working in a wide variety of technical environments. Comprehensive knowledge of configuring, managing, optimizing, and troubleshooting software, marketing, and entire IT infrastructures at small to medium scale.</p>
+<p>Motivated, passionate, and highly driven Web Solutions Developer with in depth experience working in a wide variety of technical environments. Comprehensive knowledge of configuring, managing, optimizing, and troubleshooting software, marketing, and entire IT infrastructures at small to medium scale.</p>
 
 <p>Over the years I've had the opportunity to work with world class leaders and developers allowing me to learn a variety of professional skills that have helped me succeed in the workforce. Some skills include leadership, management, planning, business-analytsis, strategic decision making, design within both operations, as well as frontend and backend software, development of software, the business, processes within and laslty the ability to to present and report analytical findings or results in a proper language satisfying customers and stakeholders with proven results.</p>
 
