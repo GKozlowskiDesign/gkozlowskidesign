@@ -7,7 +7,7 @@
 <p>Over the years I've had the opportunity to work with world class leaders and developers allowing me to learn a variety of professional skills that have helped me succeed in the workforce. Some skills include leadership, management, planning, business-analytsis, strategic decision making, design within both operations, as well as frontend and backend software, development of software, the business, processes within and laslty the ability to to present and report analytical findings or results in a proper language satisfying customers and stakeholders with proven results.</p>
 <h5>Degree: Business Information Systems</h5>
 <h3>Portfolio</h3>
-<a href="https://garykozlowski.com/"><img align="left" alt="garykozlowski | portfolio" width="70px" src="https://avatars.githubusercontent.com/u/82541715?v=4" /></a>
+<a href="https://garykozlowski.com/"><img align="left" alt="garykozlowski | portfolio" width="60px" src="https://avatars.githubusercontent.com/u/82541715?v=4" /></a>
 <br>
 <br>
 <hr>
