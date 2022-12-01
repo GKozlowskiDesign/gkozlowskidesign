@@ -18,7 +18,7 @@
 <br>
 
 <h5>Portfolio</h5>
-<a href="https://garykozlowski.com/"><img align="left" alt="garykozlowski | portfolio" width="40px" src="https://avatars.githubusercontent.com/u/82541715?v=4" /></a>
+<a href="https://garykozlowski.com/"><img align="left" alt="garykozlowski | portfolio" width="40px" src="https://raw.githubusercontent.com/gkozlowskidesign/React-Portfolio/main/src/assets/gk-1.png" /></a>
 <br>
 <br>
 <hr>
