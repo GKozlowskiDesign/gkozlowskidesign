@@ -1,5 +1,5 @@
 <h1>Gary Kozlowski</h1>
-<h4>Web Solutions Developer | Project Manager | Consultant</h4>
+<h4>Web Solutions Developer | Consultant</h4>
 <hr>
 <h3>Background</h3>
 
@@ -23,7 +23,7 @@
 <br>
 <hr>
 
-<h3>Experience</h3>
+<h3>Developer Stack</h3>
 
 <h6>Highly Experience</h6>
   <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -49,10 +49,20 @@
 <h6>Novice Experience</h6>
   <img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/480/redux.png" />
   <img align="left" alt="Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" />
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img href="#" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
      
   <br>
   <hr>
+  
+  
+<h3>Work Experience</h3>
+<h6>Software Project Manager</h6>
+<h6>Marketing Technology Specialist</h6>
+<h6>Lead Project Developer</h6>
+<h6>Digital Marketing Associate</h6>
+<h6>Ecommerce Operations Assoicate</h6>
+
+<hr>
   
 <h3>Certifications</h3>
 
