@@ -56,13 +56,14 @@
   
 <h3>Certifications</h3>
 
-<a href="https://www.sololearn.com/certificates/CT-SQ4TAIIM"><h6>React & Redux - Sololearn</h6></a>
-<a href="https://www.sololearn.com/certificates/CT-ZNJ9C0W9"><h6>Hyper Text Markup Language - Sololearn</h6></a>
-<a href="https://verify.acloud.guru/02A9147C1109"><h6>AWS Certified Cloud Practioner Course - ACloudGuru</h6></a>
-<a href="https://verify.acloud.guru/6F7228088730"><h6>AWS Database Migration Service (DMS) - ACloudGuru</h6></a>
-<a href="https://verify.acloud.guru/488D24E66C3C"><h6>AWS Introduction Course - ACloudGuru</h6></a>
-<a href="https://verify.acloud.guru/08353D4BE2DA"><h6>Introduction to Cloud Computing - ACloudGuru</h6></a>
-<a href="https://drive.google.com/file/d/1544yC2fwe0_evZAMTJRPEdKHi7yEI6rm/view"><h6>Mendix Rapid Developer - Mendix</h6></a>
-<a href="#"><h6>Salesforce for Marketers - NASBA</h6></a>
-<a href="#"><h6>Excel Data-Analysis - NASBA</h6></a>
+<h5><a href="https://drive.google.com/file/d/1544yC2fwe0_evZAMTJRPEdKHi7yEI6rm/view">Mendix Rapid Developer</a></h5>
+<h5><a href="https://www.sololearn.com/certificates/CT-SQ4TAIIM">React & Redux</a></h5>
+<h5><a href="https://www.sololearn.com/certificates/CT-ZNJ9C0W9">HTML Foundations</a></h5>
+<h5><a href="https://verify.acloud.guru/08353D4BE2DA">Introduction to Cloud Computing</a></h5>
+<h5><a href="https://verify.acloud.guru/02A9147C1109">AWS Certified Cloud Practioner</a></h5>
+<h5><a href="https://verify.acloud.guru/6F7228088730">AWS Database Migration Service (DMS)</a></h5>
+<h5><a href="https://verify.acloud.guru/488D24E66C3C">AWS Introduction Course</a></h5>
+
+
+ 
 
