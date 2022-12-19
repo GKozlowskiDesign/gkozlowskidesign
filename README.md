@@ -56,9 +56,11 @@
 <img align="left" alt="R" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" />
 <br>
 <br>
+<h2>Profile Statistics</h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gkozlowskidesign&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkozlowskidesign&show_icons=true&theme=transparent)
-
 
   
 
