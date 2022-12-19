@@ -1,3 +1,5 @@
+![Header](https://github.com/gkozlowskidesign/gkozlowskidesign/blob/main/github-header-image%20(3).png?raw=true)
+
 
 
 <h2><a href="https://garykozlowski.com/">View My Portfolio</a></h2>
