@@ -58,7 +58,6 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkozlowskidesign&show_icons=true&theme=transparent)
 
   
 
