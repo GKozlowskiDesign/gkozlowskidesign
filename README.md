@@ -1,5 +1,5 @@
 
-![Header](https://media.licdn.com/dms/image/C4E16AQFLu43AbA93iw/profile-displaybackgroundimage-shrink_350_1400/0/1668584930162?e=1677110400&v=beta&t=ID4sYcXZxudwL1svvMVqRh35rrZGcJgP9sX8Mn0kx64)
+![Header](https://github.com/gkozlowskidesign/gkozlowskidesign/blob/main/Screen%20Shot%202022-12-19%20at%2010.42.48%20AM.png?raw=true)
 <br>
 <h2>Background</h2>
 <a href="https://www.linkedin.com/in/gary-kozlowski-825053138/"><img align="left" alt="garykozlowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
