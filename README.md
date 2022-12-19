@@ -1,9 +1,7 @@
+
 ![Header](https://github.com/gkozlowskidesign/gkozlowskidesign/blob/main/github-header-image%20(3).png?raw=true)
-
-
-
-<h2><a href="https://garykozlowski.com/">View My Portfolio</a></h2>
-
+<br>
+<br>
 <a href="https://www.linkedin.com/in/gary-kozlowski-825053138/"><img align="left" alt="garykozlowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/GaryKozlowski1"><img align="left" alt="garykozlowski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://github.com/gkozlowskidesign"><img align="left" alt="garykozlowski | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
@@ -18,6 +16,7 @@
 <p>Over the years I've had the opportunity to work with world class leaders and developers allowing me to learn a variety of professional skills that have helped me succeed in the workforce. Some skills include leadership, management, planning, business-analytsis, strategic decision making, design within both operations, as well as frontend and backend software, development of software, the business, processes within and laslty the ability to to present and report analytical findings or results in a proper language satisfying customers and stakeholders with proven results.</p>
 
 <h2>Experience</h2>
+
 
 <h6>Professional Experience</h6>
  <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -55,7 +54,10 @@
 <img align="left" alt="Java" width="26px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/java-512.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="R" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" />
+<br>
+<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkozlowskidesign&show_icons=true&theme=transparent)
 
 
   
