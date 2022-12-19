@@ -1,14 +1,13 @@
 
-![Header](https://github.com/gkozlowskidesign/gkozlowskidesign/blob/main/github-header-image%20(3).png?raw=true)
+![Header](https://media.licdn.com/dms/image/C4E16AQFLu43AbA93iw/profile-displaybackgroundimage-shrink_350_1400/0/1668584930162?e=1677110400&v=beta&t=ID4sYcXZxudwL1svvMVqRh35rrZGcJgP9sX8Mn0kx64)
 <br>
-<br>
+<h2>Background</h2>
 <a href="https://www.linkedin.com/in/gary-kozlowski-825053138/"><img align="left" alt="garykozlowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/GaryKozlowski1"><img align="left" alt="garykozlowski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://github.com/gkozlowskidesign"><img align="left" alt="garykozlowski | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://www.instagram.com/garykozlowski1/?next=%2Fgary_kozlowski1%2F"><img align="left" alt="garykozlowski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/garyjr.kozlowski/"><img align="left" alt="garykozlowski | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <br>
-<h2>Background</h2>
 <h4>Degree of Business Information Systems</h4>
 
 <p>Motivated, passionate, and highly driven Web Solutions Developer with in depth experience working in a wide variety of technical environments. Comprehensive knowledge of configuring, managing, optimizing, and troubleshooting software, marketing, and entire IT infrastructures at small to medium scale.</p>
@@ -56,9 +55,6 @@
 <img align="left" alt="R" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" />
 <br>
 <br>
-<h2>Profile Statistics</h2>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gkozlowskidesign&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkozlowskidesign&show_icons=true&theme=transparent)
 
