@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/garykozlowski1/?next=%2Fgary_kozlowski1%2F"><img align="left" alt="garykozlowski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/garyjr.kozlowski/"><img align="left" alt="garykozlowski | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <br>
-<h4>Degree of Business Information Systems</h4>
+<h3>Bachelors of Science in Business Information Systems</h3>
 
 <p>Motivated, passionate, and highly driven Web Solutions Developer with in depth experience working in a wide variety of technical environments. Comprehensive knowledge of configuring, managing, optimizing, and troubleshooting software, marketing, and entire IT infrastructures at small to medium scale.</p>
 
