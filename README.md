@@ -9,9 +9,15 @@
 <br>
 <h3>Bachelors of Science in Business Information Systems</h3>
 
-<p>Motivated, passionate, and highly driven Web Solutions Developer with in depth experience working in a wide variety of technical environments. Comprehensive knowledge of configuring, managing, optimizing, and troubleshooting software, marketing, and entire IT infrastructures at small to medium scale.</p>
+<p>Highly motivated and driven Project Manager and Developer with extensive experience in diverse technical environments. Proficient in configuring, managing, optimizing, and troubleshooting software, marketing, and IT infrastructures for small to medium-scale operations. Skilled in leadership, management, strategy, planning, design, development, and analytical reporting within technical project roles.</p>
 
-<p>Over the years I've had the opportunity to work with world class leaders and developers allowing me to learn a variety of professional skills that have helped me succeed in the workforce. Some skills include leadership, management, planning, business-analytsis, strategic decision making, design within both operations, as well as frontend and backend software, development of software, the business, processes within and laslty the ability to to present and report analytical findings or results in a proper language satisfying customers and stakeholders with proven results.</p>
+<p>In the ever-evolving landscape of technology, the convergence of artificial intelligence, blockchain, 5G connectivity, virtual reality, cloud compute, and other frontier technologies has sparked a revolution that is reshaping society. These technologies, once separate entities, are now intricately intertwined, creating new opportunities for businesses.</p>
+
+<p>As a software developer skilled in JavaScript, React, Tailwind CSS, MERN stack, AWS, Git, Node.js, NoSQL, MySQL, and Redux, I possess the expertise to explore and harness the potential of these emerging technologies. This enables me to undertake individual projects and contribute meaningfully to the digital transformation of organizations.</p>
+
+<p>What sets me apart is my innate drive as a self-starter. I am not solely dependent on big companies for opportunities; rather, big companies seek individuals like me who possess the rare combination of technical prowess and the ability to take initiative. The workforce often lacks self-starters who can navigate complex technical landscapes and drive innovation with confidence. With an unwavering mentality to never give up, I thrive on solving problems and overcoming challenges. I approach every project with resilience, continuously seeking innovative solutions and pushing boundaries. This tenacity allows me to adapt to evolving technologies and deliver exceptional results.</p>
+
+<p>n summary, I am a confident software developer who doesn't wait for opportunities but creates them. Big companies recognize the worth and potential in individuals like me who possess the drive, skills, and determination to make a significant impact. With my self-starting mentality and problem-solving mindset, I thrive in navigating complex technological landscapes and delivering outstanding outcomes.</p>
 
 <h2>Experience</h2>
 
