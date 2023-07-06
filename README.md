@@ -1,25 +1,36 @@
 
 
-<h2>Background</h2>
+<h2 color="blue">Social Media</h2>
 <a href="https://www.linkedin.com/in/gary-kozlowski-825053138/"><img align="left" alt="garykozlowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/GaryKozlowski1"><img align="left" alt="garykozlowski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://github.com/gkozlowskidesign"><img align="left" alt="garykozlowski | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://www.instagram.com/garykozlowski1/?next=%2Fgary_kozlowski1%2F"><img align="left" alt="garykozlowski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/garyjr.kozlowski/"><img align="left" alt="garykozlowski | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+
+
 <br>
+<h2 color="blue">Background</h2>
+
 <h3>Bachelors of Science in Business Information Systems</h3>
 
-<p>In the ever-evolving landscape of technology, the convergence of artificial intelligence, blockchain, 5G connectivity, virtual reality, cloud compute, and other frontier technologies has sparked a revolution that is reshaping society. These technologies, once separate entities, are now intricately intertwined, creating new opportunities for businesses.</p>
-  
-<p>As a highly motivated and driven Technical Project Manager with extensive experience in diverse technical environments, I am Proficient in configuring, managing, optimizing, and troubleshooting software, marketing, and IT infrastructures for small to medium-scale operations. Skilled in leadership, management, strategy, planning, design, development, and analytical reporting within technical project roles.</p>
+<p>I hold an AWS Certified Cloud Practitioner certification, solidifying my understanding of cloud technologies and their practical implementation. As an independent developer, I actively work on various projects using technologies like the MERN stack, Vite, MySQL, NoSQL, and AWS services. Continually improving and expanding my skill set, I pursue certifications and courses to stay up to date with industry standards. My GitHub repository showcases the projects I've undertaken, demonstrating my hands-on experience, problem-solving abilities, and growth as a developer. I specialize in building Full-Stack web applications that integrate NoSQL, MySQL, and cloud technologies. </p>
 
-<p>As a software developer skilled in JavaScript, React, Tailwind CSS, MERN stack, AWS, Git, Node.js, NoSQL, MySQL, and Redux, I possess the expertise to explore and harness the potential of these emerging technologies. This enables me to undertake individual projects and contribute meaningfully to the digital transformation of organizations.</p>
+<h2 color="blue">Repository Organization</h2>
 
-<p>What sets me apart is my innate drive as a self-starter. I am not solely dependent on big companies for opportunities; rather, big companies seek individuals like me who possess the rare combination of technical prowess and the ability to take initiative. The workforce often lacks self-starters who can navigate complex technical landscapes and drive innovation with confidence. With an unwavering mentality to never give up, I thrive on solving problems and overcoming challenges. I approach every project with resilience, continuously seeking innovative solutions and pushing boundaries. This tenacity allows me to adapt to evolving technologies and deliver exceptional results.</p>
+<h3>My repositories are organized as follows</h3>
 
-<p>In summary, I am a confident software developer who doesn't wait for opportunities but creates them. Big companies recognize the worth and potential in individuals like me who possess the drive, skills, and determination to make a significant impact. With my self-starting mentality and problem-solving mindset, I thrive in navigating complex technological landscapes and delivering outstanding outcomes.</p>
+<h4>Name_Website</h4>
+This category includes ongoing or finished websites I have developed. These projects showcase my web development skills and expertise, covering a range of technologies, frameworks, and design principles. Each repository contains the necessary code, documentation, and any additional resources related to the website.
 
-<h2>Experience</h2>
+<h4>Name_Education</h4>
+This category comprises projects that I have undertaken to enhance my learning and deepen my understanding of specific skills or technologies. These projects are focused on self-improvement and skill development, often involving tutorials, online courses, or personal exploration. The repositories within this category may contain code samples, notes, and supplementary materials to support the learning process.
+
+<h4>Name_Application</h4>
+This category encompasses ongoing or finished applications that I have developed. These projects demonstrate my proficiency in application development, including both frontend and backend components. The repositories within this category contain the source code, documentation, and any relevant resources related to the application. They highlight my ability to create functional and user-friendly applications using various technologies and frameworks.
+
+
+
+<h2 color="blue">Experience</h2>
 
 
 <h6>Professional Experience</h6>
