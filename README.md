@@ -12,22 +12,20 @@
 
 <h2 color="blue">Repository Organization</h2>
 
-<h3>My repositories are organized as follows</h3>
-
-<h4>Name_Website</h4>
+<h4 color="orange">Name_Website</h4>
 This category includes ongoing or finished websites I have developed. These projects showcase my web development skills and expertise, covering a range of technologies, frameworks, and design principles. Each repository contains the necessary code, documentation, and any additional resources related to the website.
 
-<h4>Name_Education</h4>
+<h4 color="orange">Name_Education</h4>
 This category comprises projects that I have undertaken to enhance my learning and deepen my understanding of specific skills or technologies. These projects are focused on self-improvement and skill development, often involving tutorials, online courses, or personal exploration. The repositories within this category may contain code samples, notes, and supplementary materials to support the learning process.
 
-<h4>Name_Application</h4>
+<h4 color="orange">Name_Application</h4>
 This category encompasses ongoing or finished applications that I have developed. These projects demonstrate my proficiency in application development, including both frontend and backend components. The repositories within this category contain the source code, documentation, and any relevant resources related to the application. They highlight my ability to create functional and user-friendly applications using various technologies and frameworks.
 
 <br>
 
 <h2 color="blue">Background Experience</h2>
 
-<h3>Bachelors of Science in Business Information Systems</h3>
+<h4 color="orange">Bachelors of Science in Business Information Systems</h4>
 
 <p>In January 2021, I began my professional journey as an Project Lead Developer working with my universities branch of the Association of Information Technology Professioanls AITP group. While in this role I lead our team in designing, developing and proto-typing of a custom application UI and UX, specialized content and documentation that met the requirements of our shareholders. This project was vital for eldery individuals as they had no means of getting vaccinated so we rushed development in an agile manner staying up all night to beat the state of Connecticut in creating a Covid-19 vaccination web application that would help walk the elderly and anyone get vaccinated in a clear and concise manner being featured across several major news agencies.</p>
 
