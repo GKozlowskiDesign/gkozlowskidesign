@@ -37,45 +37,95 @@ This category encompasses ongoing or finished applications that I have developed
 
 
 
-
-
-<h6>Professional Experience</h6>
-  <img align="left" alt="Netlify" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png" />
- <img align="left" alt="AWS" width="26px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" />
-  <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-   <img align="left" alt="Tailwinds" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
-
- 
-
- 
-<br>
+<table padding="20px">
+<tr>
+<th>Database</th>
+<th>Frontend</th>
+<th>Backend</th>
+<th>DevOps</th>
+<th>Cloud</th>
+</tr>
   
-<h6>Advanced Experience</h6>
-  <img align="left" alt="Git" width="24px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
- <img align="left" alt="Express" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" />
- <img href="#" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<tr>
+<td align="center">
+<img alt="Mongodb" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+</td>
+<td align="center" >
+<img alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
+</td>
+<td align="center">
+<img alt="Express" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" />
+</td>
+<td  align="center">
+<img alt="Netlify" width="26px" 
+src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png" 
+/>
+</td>
+<td align="center">
+<img alt="AWS" width="26px" 
+src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" 
+/>
+</td>
+</tr>
 
- <br>
-   
-<h6>Intermediate Experience</h6>
-<img align="left" alt="Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" />
- <img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/480/redux.png" />
-  <img align="left" alt="Mongodb" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-  <img align="left" alt="MySQL" width="28px" src="https://play-lh.googleusercontent.com/BXzgnDx84yskYrBdGOQ7zkEI004SdjNfoX-ltpqWjx3f6qOHIS0rDPwDWWvnHaE24Ruc" />
+<tr>
+<td align="center" >
+<img alt="MySQL" width="28px" src="https://play-lh.googleusercontent.com/BXzgnDx84yskYrBdGOQ7zkEI004SdjNfoX-ltpqWjx3f6qOHIS0rDPwDWWvnHaE24Ruc" />
+</td>
+<td align="center" >
+<img alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
+</td>
+<td align="center">
+<img alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</td>
+<td align="center">
+<img alt="Git" width="24px" 
+src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
+</td>
+<td align="center">
+<img alt="AZURE" width="26px" 
+src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png" 
+/>
+</td>
+</tr>
 
- <br>
-   
-<h6>Beginner Experience</h6>
-<img align="left" alt="Docker" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/java-512.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="R" width="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" />
 
-<br>
-<br>
-<br>
-<br>
+<tr>
+<td align="center">
+  <img alt="DynamoDB" width="22px" src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" />
+</td>
+<td align="center">
+<img  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</td>
+<td align="center">
+<img  alt="Redux" width="26px" src="https://img.icons8.com/color/480/redux.png" />
+</td>
+<td align="center">
+<img alt="GitHub" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3204980/logo-github-icon-md.png"/>
+</td>
+<td align="center"></td>
+
+</tr>
+
+<tr>
+<td align="center"></td>
+<td align="center" >
+<img alt="Tailwinds" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" /> 
+</td>
+<td align="center">
+<img alt="JavaScript" width="24px"       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</table>
+
+
+
+
+
+ 
 
 
   
