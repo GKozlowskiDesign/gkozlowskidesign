@@ -1,31 +1,31 @@
 
 
 <h2 color="blue">Social Media</h2>
-<a href="https://www.linkedin.com/in/gary-kozlowski-825053138/"><img align="left" alt="garykozlowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://twitter.com/GaryKozlowski1"><img align="left" alt="garykozlowski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://github.com/gkozlowskidesign"><img align="left" alt="garykozlowski | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://www.instagram.com/garykozlowski1/?next=%2Fgary_kozlowski1%2F"><img align="left" alt="garykozlowski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/garyjr.kozlowski/"><img align="left" alt="garykozlowski | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.linkedin.com/in/gary-kozlowski-825053138/"><img align="left" alt="garykozlowski | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/GaryKozlowski1"><img align="left" alt="garykozlowski | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://github.com/gkozlowskidesign"><img align="left" alt="garykozlowski | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="https://www.instagram.com/garykozlowski1/?next=%2Fgary_kozlowski1%2F"><img align="left" alt="garykozlowski | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/garyjr.kozlowski/"><img align="left" alt="garykozlowski | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
 
 <br>
 
 <h2 color="blue">Repository Organization</h2>
 
-<h4 color="orange">Name_Website</h4>
+<h4 color="green">Name_Website</h4>
 This category includes ongoing or finished websites I have developed. These projects showcase my web development skills and expertise, covering a range of technologies, frameworks, and design principles. Each repository contains the necessary code, documentation, and any additional resources related to the website.
 
-<h4 color="orange">Name_Education</h4>
+<h4 color="green">Name_Education</h4>
 This category comprises projects that I have undertaken to enhance my learning and deepen my understanding of specific skills or technologies. These projects are focused on self-improvement and skill development, often involving tutorials, online courses, or personal exploration. The repositories within this category may contain code samples, notes, and supplementary materials to support the learning process.
 
-<h4 color="orange">Name_Application</h4>
+<h4 color="green">Name_Application</h4>
 This category encompasses ongoing or finished applications that I have developed. These projects demonstrate my proficiency in application development, including both frontend and backend components. The repositories within this category contain the source code, documentation, and any relevant resources related to the application. They highlight my ability to create functional and user-friendly applications using various technologies and frameworks.
 
 <br>
 
 <h2 color="blue">Background Experience</h2>
 
-<h4 color="orange">Bachelors of Science in Business Information Systems</h4>
+<h4 color="green">Bachelors of Science in Business Information Systems</h4>
 
 <p>In January 2021, I joined my university's branch of the Association of Information Technology Professionals (AITP) as a Project Lead Developer. Leading a team, we designed and developed a custom application UI and UX, creating specialized content and documentation. Our project focused on developing a Covid-19 vaccination web application to assist the elderly and others. We worked diligently, adopting an agile approach to beat the state of Connecticut and gained recognition from major news agencies.</p>
 
@@ -39,10 +39,10 @@ This category encompasses ongoing or finished applications that I have developed
 
 <table padding="20px">
 <tr>
-<th>Database</th>
-<th>Frontend</th>
-<th>Backend</th>
-<th>DevOps</th>
+<th color="green">Database</th>
+<th color="green">Frontend</th>
+<th color="green">Backend</th>
+<th color="green">DevOps</th>
 </tr>
   
 <tr>
