@@ -43,7 +43,6 @@ This category encompasses ongoing or finished applications that I have developed
 <th>Frontend</th>
 <th>Backend</th>
 <th>DevOps</th>
-<th>Cloud</th>
 </tr>
   
 <tr>
@@ -57,15 +56,8 @@ This category encompasses ongoing or finished applications that I have developed
 <img alt="Express" width="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" />
 </td>
-<td  align="center">
-<img alt="Netlify" width="26px" 
-src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png" 
-/>
-</td>
 <td align="center">
-<img alt="AWS" width="26px" 
-src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" 
-/>
+<img alt="GitHub" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3204980/logo-github-icon-md.png"/>
 </td>
 </tr>
 
@@ -80,14 +72,11 @@ src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"
 <img alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </td>
 <td align="center">
-<img alt="Git" width="24px" 
-src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-</td>
-<td align="center">
-<img alt="AZURE" width="26px" 
-src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png" 
+<img alt="AWS" width="26px" 
+src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" 
 />
 </td>
+
 </tr>
 
 
@@ -102,9 +91,11 @@ src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png"
 <img  alt="Redux" width="26px" src="https://img.icons8.com/color/480/redux.png" />
 </td>
 <td align="center">
-<img alt="GitHub" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3204980/logo-github-icon-md.png"/>
+<img alt="AZURE" width="26px" 
+src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png" 
+/>
 </td>
-<td align="center"></td>
+
 
 </tr>
 
@@ -116,8 +107,10 @@ src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png"
 <td align="center">
 <img alt="JavaScript" width="24px"       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 </td>
-<td align="center"></td>
-<td align="center"></td>
+<td align="center">
+<img alt="Git" width="24px" 
+src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
+</td>
 </tr>
 </table>
 
