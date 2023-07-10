@@ -85,8 +85,8 @@ src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"
   <img alt="DynamoDB" width="22px" src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" />
 </td>
 <td align="center">
-<img  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</td>
+<img alt="Bootstrap" width="26px" src="https://github.com/gkozlowskidesign/gkozlowskidesign/assets/82541715/19bf9333-88e9-4dc3-95ce-de0d3cb25457" />
+  </td>
 <td align="center">
 <img alt="JavaScript" width="24px"       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 </td>
@@ -115,8 +115,8 @@ src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png"
 <tr>
 <td align="center"></td>
 <td align="center">
-<img alt="Bootstrap" width="26px" src="https://github.com/gkozlowskidesign/gkozlowskidesign/assets/82541715/19bf9333-88e9-4dc3-95ce-de0d3cb25457" />
-  </td>
+<img  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</td>
 <td align="center">
 <img alt="SQL" width="46px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1"
 </td><td align="center"></td>
