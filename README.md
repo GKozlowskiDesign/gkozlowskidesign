@@ -57,7 +57,8 @@ This category encompasses ongoing or finished applications that I have developed
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" />
 </td>
 <td align="center">
-<img alt="GitHub" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3204980/logo-github-icon-md.png"/>
+<img alt="Git" width="24px" 
+src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 </td>
 </tr>
 
@@ -76,7 +77,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_ic
 src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" 
 />
 </td>
-
 </tr>
 
 
@@ -88,29 +88,47 @@ src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"
 <img  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </td>
 <td align="center">
-<img  alt="Redux" width="26px" src="https://img.icons8.com/color/480/redux.png" />
+<img alt="JavaScript" width="24px"       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 </td>
 <td align="center">
 <img alt="AZURE" width="26px" 
 src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png" 
 />
 </td>
-
-
 </tr>
 
 <tr>
 <td align="center"></td>
-<td align="center" >
+
+<td align="center">
+<img  alt="Redux" width="26px" src="https://img.icons8.com/color/480/redux.png" />
+</td>
+<td align="center">
+<img alt="NPM" width="26px" src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" /> 
+</td>
+
+<td align="center">
+<img alt="GitHub" width="30px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3204980/logo-github-icon-md.png"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"></td>
+<td align="center">
+<img alt="Bootstrap" width="26px" src="https://github.com/gkozlowskidesign/gkozlowskidesign/assets/82541715/19bf9333-88e9-4dc3-95ce-de0d3cb25457" />
+  </td>
+<td align="center">
+<img alt="SQL" width="46px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1"
+</td><td align="center"></td>
+</tr>
+
+<tr>
+<td align="center"></td>
+<td align="center">
 <img alt="Tailwinds" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" /> 
 </td>
-<td align="center">
-<img alt="JavaScript" width="24px"       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-</td>
-<td align="center">
-<img alt="Git" width="24px" 
-src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-</td>
+<td align="center"></td>
+<td align="center"></td>
 </tr>
 </table>
 
