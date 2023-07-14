@@ -15,7 +15,7 @@
 <h4 color="green">Name_Website</h4>
 This category includes ongoing or finished websites I have developed. These projects showcase my web development skills and expertise, covering a range of technologies, frameworks, and design principles. Each repository contains the necessary code, documentation, and any additional resources related to the website.
 
-<h4 color="green">Name_Education</h4>
+<h4 color="green">Name_Project</h4>
 This category comprises projects that I have undertaken to enhance my learning and deepen my understanding of specific skills or technologies. These projects are focused on self-improvement and skill development, often involving tutorials, online courses, or personal exploration. The repositories within this category may contain code samples, notes, and supplementary materials to support the learning process.
 
 <h4 color="green">Name_Application</h4>
