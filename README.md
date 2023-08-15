@@ -11,17 +11,8 @@
 <br>
 
 <h2 color="blue">Repository Organization</h2>
+<p>More Information Coming Soon....</p>
 
-<h4 color="green">Name_Website</h4>
-This category includes ongoing or finished websites I have developed. These projects showcase my web development skills and expertise, covering a range of technologies, frameworks, and design principles. Each repository contains the necessary code, documentation, and any additional resources related to the website.
-
-<h4 color="green">Name_Project</h4>
-This category comprises projects that I have undertaken to enhance my learning and deepen my understanding of specific skills or technologies. These projects are focused on self-improvement and skill development, often involving tutorials, online courses, or personal exploration. The repositories within this category may contain code samples, notes, and supplementary materials to support the learning process.
-
-<h4 color="green">Name_Application</h4>
-This category encompasses ongoing or finished applications that I have developed. These projects demonstrate my proficiency in application development, including both frontend and backend components. The repositories within this category contain the source code, documentation, and any relevant resources related to the application. They highlight my ability to create functional and user-friendly applications using various technologies and frameworks.
-
-<br>
 
 <h2 color="blue">Background Experience</h2>
 
@@ -118,8 +109,9 @@ src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png"
 <img  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </td>
 <td align="center">
-<img alt="SQL" width="46px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1"
-</td><td align="center"></td>
+<img alt="SQL" width="46px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" />
+</td>
+<td align="center"><img alt="SQL" width="36px" src="https://w7.pngwing.com/pngs/254/295/png-transparent-continuous-integration-software-deployment-software-testing-ci-cd-agile-software-development-others-blue-text-trademark.png" /></td>
 </tr>
 
 <tr>
@@ -127,7 +119,7 @@ src="https://cdn.icon-icons.com/icons2/2407/PNG/512/azure_icon_146223.png"
 <td align="center">
 <img alt="Tailwinds" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" /> 
 </td>
-<td align="center"></td>
+<td align="center"><img alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /></td>
 <td align="center"></td>
 </tr>
 </table>
