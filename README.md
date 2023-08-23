@@ -18,13 +18,15 @@
 
 <h4 color="green">Bachelors of Science in Business Information Systems</h4>
 
-<p>In January 2021, I joined my university's branch of the Association of Information Technology Professionals (AITP) as a Project Lead Developer. Leading a team, we designed and developed a custom application UI and UX, creating specialized content and documentation. Our project focused on developing a Covid-19 vaccination web application to assist the elderly and others. We worked diligently, adopting an agile approach to beat the state of Connecticut and gained recognition from major news agencies.</p>
+<p>As a Business Information Systems Graduate, Full-Stack Developer, and AWS Certified Cloud Practitioner, I excel in navigating teams through technical challenges, cloud migration initiatives, workload architecture examinations, and high-risk issue mitigation. My proficiency bridges the gap between technical and business dimensions.
+</p>
 
-<p>In May 2021, I obtained a distinguished bachelor's degree in Business-Information-Systems, enhancing my technological skills and cultivating leadership and analytical thinking. Shortly after graduating, I worked as a Marketing Technology Specialist for a large law firm. After eight months, I realized the need to transition into a more technically focused or developer-friendly position.</p>
+<p>I actively engage in personal projects, courses, and certifications utilizing a 
+  spectrum of technologies that focus on the development core of Full-Stack, FrontEnd, BackEnd, Cloud, Blockchain, and Web3.
+</p>
 
-<p>In 2022-2023, I worked as a Technical Project Consultant for a startup venture backed by Arcline Investments and later joined Comcast. These roles involved developing bespoke industrial ERP systems and mobile applications for elevator companies, as well as coordinating telecom infrastructure projects. Leveraging SaaS technologies, I streamlined processes, facilitated joint ventures, and provided comprehensive status reports.</p>
-
-<p>In 2023, I earned the AWS Certified Cloud Practitioner certification, demonstrating my proficiency in cloud technologies. As an independent developer, I actively engage in projects utilizing technologies like React Native, Tailwind CSS, MERN stack, Vite, MySQL, NoSQL, and AWS services. My GitHub repository showcases my hands-on experience and growth as a developer, specializing in building Full-Stack web applications integrating NoSQL, MySQL, and cloud technologies.</p>
+<p>My GitHub repositories epitomize my dedication to continuous growth, perpetual learning, and professional advancement. 
+  They showcase hands-on experience and adeptness in constructing secure, reliable projects with cloud technologies.</p>
 
 
 
