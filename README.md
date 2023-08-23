@@ -1,34 +1,46 @@
+<h1>Biography</h1>
+
+<p>
+As a Business Information Systems Graduate, Full-Stack Developer, and AWS Certified Cloud Practitioner, 
+I excel in navigating teams through technical challenges, cloud migration initiatives, workload architecture examinations, and high-risk issue mitigation. My proficiency bridges the gap between technical and business dimensions. I actively engage in personal projects, courses, and certifications utilizing a spectrum of technologies that focus on the development core of Full-Stack, FrontEnd, BackEnd, Cloud, Blockchain, and Web3. My GitHub repositories epitomize my dedication to continuous growth, perpetual learning, and professional advancement. 
+They showcase hands-on experience and adeptness in constructing secure, reliable projects with cloud technologies.
+</p>
+
+<br>
 
 
-<h2 color="blue">Social Media</h2>
-<a href="https://www.linkedin.com/in/gary-kozlowski-825053138/"><img align="left" alt="garykozlowski | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://twitter.com/GaryKozlowski1"><img align="left" alt="garykozlowski | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://github.com/gkozlowskidesign"><img align="left" alt="garykozlowski | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://www.instagram.com/garykozlowski1/?next=%2Fgary_kozlowski1%2F"><img align="left" alt="garykozlowski | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/garyjr.kozlowski/"><img align="left" alt="garykozlowski | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+
+<h1>Featured</h1>
+
+<a href="https://www.linkedin.com/in/gary-kozlowski-825053138/">
+  <img align="left" alt="garykozlowski | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/GaryKozlowski1">
+  <img align="left" alt="garykozlowski | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/gkozlowskidesign">
+  <img align="left" alt="garykozlowski | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/garykozlowski1/?next=%2Fgary_kozlowski1%2F">
+  <img align="left" alt="garykozlowski | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/garyjr.kozlowski/">
+  <img align="left" alt="garykozlowski | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br>
+<br>
+<br>
+
+
+<h1>Background</h1>
+
+<p><b>Bachelors of Science: </b>Business Information Systems</p>
+<p><b>Certified: </b>AWS Cloud Practitioner</p>
 
 
 <br>
 
-<h2 color="blue">Repository Organization</h2>
-<p>More Information Coming Soon....</p>
-
-
-<h2 color="blue">Background Experience</h2>
-
-<h4 color="green">Bachelors of Science in Business Information Systems</h4>
-
-<p>As a Business Information Systems Graduate, Full-Stack Developer, and AWS Certified Cloud Practitioner, I excel in navigating teams through technical challenges, cloud migration initiatives, workload architecture examinations, and high-risk issue mitigation. My proficiency bridges the gap between technical and business dimensions.
-</p>
-
-<p>I actively engage in personal projects, courses, and certifications utilizing a 
-  spectrum of technologies that focus on the development core of Full-Stack, FrontEnd, BackEnd, Cloud, Blockchain, and Web3.
-</p>
-
-<p>My GitHub repositories epitomize my dedication to continuous growth, perpetual learning, and professional advancement. 
-  They showcase hands-on experience and adeptness in constructing secure, reliable projects with cloud technologies.</p>
-
-
+<h1>Experience</h1>
 
 <table padding="20px">
 <tr>
