@@ -42,36 +42,32 @@
 
 - <p><b>Major: </b>Business Information Systems</p>
 - <p><b>Minor: </b>Business Management</p>
-
 <p>
 As a Business Information Systems Graduate, Full-Stack Developer, and AWS Certified Cloud Practitioner, 
 I excel in navigating teams through technical challenges, cloud migration initiatives, workload architecture examinations, and high-risk issue mitigation. My proficiency bridges the gap between technical and business dimensions. I actively engage in personal projects, courses, and certifications utilizing a spectrum of technologies that focus on the development core of Full-Stack, FrontEnd, BackEnd, Cloud, Blockchain, and Web3. My GitHub repositories epitomize my dedication to continuous growth, perpetual learning, and professional advancement. 
 They showcase hands-on experience and adeptness in constructing secure, reliable projects with cloud technologies.
 </p>
+
 <br>
-<br>
-<div>
-<h1>Certifications</h1>
+<h4>Amazon Web Services</h4>
 <a href="https://www.credly.com/badges/82c0c5bd-b30b-4bcd-9e12-06ba4d0887df">
-  <img align="left" alt="garykozlowski | LinkedIn" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+  <img  alt="garykozlowski | LinkedIn" width="90px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 </a>
 <a href="https://www.credly.com/badges/ac7ae31d-4dd7-40a9-98f9-86056f17d6b1">
-  <img align="left" alt="garykozlowski | LinkedIn" width="100px" src="https://images.credly.com/size/680x680/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" />
+  <img  alt="garykozlowski | LinkedIn" width="90px" src="https://images.credly.com/size/680x680/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" />
 </a>
 <a href="https://www.credly.com/badges/aa13f693-76cd-4368-aa56-ffcafdaff5f0">
-  <img align="left" alt="garykozlowski | LinkedIn" width="100px" src="https://github.com/GKozlowskiDesign/gkozlowskidesign/assets/82541715/0bc51284-463c-4e60-97d4-af185167d9a0" />
+  <img  alt="garykozlowski | LinkedIn" width="90px" src="https://github.com/GKozlowskiDesign/gkozlowskidesign/assets/82541715/0bc51284-463c-4e60-97d4-af185167d9a0" />
 </a>
 <a href="https://www.credly.com/badges/291e16c5-9a03-42ac-b211-23be11a03170">
-  <img align="left" alt="garykozlowski | LinkedIn" width="100px" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" />
+  <img alt="garykozlowski | LinkedIn" width="90px" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" />
 </a>
-</div>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
+<h4>Courses</h4>
+<a href="https://www.credly.com/badges/82c0c5bd-b30b-4bcd-9e12-06ba4d0887df">AWS</a>
 
 
 
