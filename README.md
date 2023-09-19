@@ -1,4 +1,9 @@
+<h1>Vistor Count</h1>
 
+![Visitor Count](https://profile-counter.glitch.me/{gkozlowskidesign}/count.svg)
+
+
+<br>
 
 <h1>Social Media</h1>
 
@@ -21,6 +26,16 @@
   <img align="left" alt="garykozlowski | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
+
+<br>
+<br>
+
+<h1>Featured</h1>
+
+- 🔭 I am currently focused on preparing for the AWS Associate Architect Exam.
+- ⚡ Always enhancing my portfolio with mini projects using JavaScript, Python, AWS, and various Databases. 
+- 💬 Read my AWS Documentation [Journal](https://gkozlowskidesign.medium.com/) on Medium.
+- 🌐 Checkout my Portfolio Website [Here](https://garykozlowski.xyz/)
 <br>
 <h1>Background</h1>
 <h4>Bachelor of Science</h4>
@@ -34,14 +49,6 @@ I excel in navigating teams through technical challenges, cloud migration initia
 They showcase hands-on experience and adeptness in constructing secure, reliable projects with cloud technologies.
 </p>
 <br>
-<h1>Featured</h1>
-
-- 🔭 I am currently focused on preparing for the AWS Associate Architect Exam.
-- ⚡ Always enhancing my portfolio with mini projects using JavaScript, Python, AWS, and various Databases. 
-- 💬 Read my AWS Documentation [Journal](https://gkozlowskidesign.medium.com/) on Medium.
-- 🌐 Checkout my Portfolio Website [Here](https://garykozlowski.xyz/)
-
-
 <br>
 <div>
 <h1>Certifications</h1>
@@ -64,10 +71,6 @@ They showcase hands-on experience and adeptness in constructing secure, reliable
 <br>
 <br>
 <br>
-
-<h1>Vistor Count</h1>
-
-![Visitor Count](https://profile-counter.glitch.me/{gkozlowskidesign}/count.svg)
 
 
 
