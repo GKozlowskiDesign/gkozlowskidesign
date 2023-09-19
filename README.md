@@ -72,7 +72,7 @@ They showcase hands-on experience and adeptness in constructing secure, reliable
 - <a href="https://verify.acloud.guru/95216D665794">ACloudGuru | Expanding Your Skills with React</a>
 - <a href="https://verify.acloud.guru/2B75EAB435FA">ACloudGuru | Introduction to JavaScript</a>
 - <a href="https://verify.acloud.guru/02A9147C1109">ACloudGuru | AWS Certified Cloud Practitioner</a>
-- <a href="https://verify.acloud.guru/6F7228088730">ACloudGuru | AWS Database Migration Service (DMS)</a>
+- <a href="https://verify.acloud.guru/6F7228088730">ACloudGuru | AWS Database Migration Service</a>
 - <a href="https://verify.acloud.guru/488D24E66C3C">ACloudGuru | Introduction to AWS</a>
 - <a href="https://verify.acloud.guru/08353D4BE2DA">ACloudGuru | Introduction to Cloud Computing</a>
 - <a href="https://www.sololearn.com/certificates/CT-ZNJ9C0W9">Sololearn | HTML</a>
