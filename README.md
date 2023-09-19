@@ -31,9 +31,10 @@
 
 
 <h1>Background</h1>
+<h4>Bachelor of Science</h4>
 
-<p><b>Bachelors of Science: </b>Business Information Systems 🎓 </p>
-
+- <p><b>Major: </b>Business Information Systems</p>
+- <p><b>Minor: </b>Business Management</p>
 
 <p>
 As a Business Information Systems Graduate, Full-Stack Developer, and AWS Certified Cloud Practitioner, 
@@ -41,14 +42,11 @@ I excel in navigating teams through technical challenges, cloud migration initia
 They showcase hands-on experience and adeptness in constructing secure, reliable projects with cloud technologies.
 </p>
 
-
+<div>
 <h1>Certifications</h1>
-
-
 <a href="https://www.credly.com/badges/82c0c5bd-b30b-4bcd-9e12-06ba4d0887df">
   <img align="left" alt="garykozlowski | LinkedIn" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 </a>
-
 <a href="https://www.credly.com/badges/ac7ae31d-4dd7-40a9-98f9-86056f17d6b1">
   <img align="left" alt="garykozlowski | LinkedIn" width="100px" src="https://images.credly.com/size/680x680/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" />
 </a>
@@ -58,6 +56,8 @@ They showcase hands-on experience and adeptness in constructing secure, reliable
 <a href="https://www.credly.com/badges/291e16c5-9a03-42ac-b211-23be11a03170">
   <img align="left" alt="garykozlowski | LinkedIn" width="100px" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" />
 </a>
+</div>
+
 <br>
 <br>
 <br>
