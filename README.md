@@ -70,7 +70,7 @@ They showcase hands-on experience and adeptness in constructing secure, reliable
 
 <h1>Education</h1>
 
-<h4>Degree</h4>
+<h4>Undergraduate Degree</h4>
 
 - <p><b>Major: </b>Business Information Systems</p>
 - <p><b>Minor: </b>Business Management</p>
