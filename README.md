@@ -60,14 +60,6 @@
 <br>
 
 
-<h1>Education</h1>
-
-<h4>Undergraduate Degree</h4>
-
-- <p><b>Major: </b>Business Information Systems</p>
-- <p><b>Minor: </b>Business Management</p>
-
-
 
 
 
