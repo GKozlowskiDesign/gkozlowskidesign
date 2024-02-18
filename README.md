@@ -32,8 +32,8 @@
 
 <h1>Featured</h1>
 
-- 🔭 I am currently focused on preparing for the AWS Associate Architect Exam.
-- ⚡ Always enhancing my portfolio with mini projects using JavaScript, Python, AWS, and various Databases. 
+- 🔭 I am currently focused on building out UI Designs with NextJS, Tailwinds, Framer, AWS, and Figma.
+- ⚡ Always enhancing my background with mini projects using JS, Cloud Computing, Blockchain, and various Databases. 
 - 💬 Read about AWS, JavaScript, React, NextJS, UI Design, SEO, and more in my Developers Journal Blog [Here](https://medium.com/@thedevelopersjournal)
 - ✨ Explore my latest Figma UI designs [Here](https://www.figma.com/@gkozlowskidesig)
 <br>
