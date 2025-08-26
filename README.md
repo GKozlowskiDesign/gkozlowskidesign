@@ -1,10 +1,3 @@
-<h1>Vistor Count</h1>
-
-![Visitor Count](https://profile-counter.glitch.me/{gkozlowskidesign}/count.svg)
-
-
-<br>
-
 <h1>Social Media</h1>
 
   Let's connect and build the future together! 🌟
