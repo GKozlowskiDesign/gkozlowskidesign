@@ -24,6 +24,32 @@ I focus on turning complex workflows into scalable products — from product arc
 
 ---
 
+<h2 align="center">🚀 Building & Exploring</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+- 🤖 **AI-Assisted Engineering** — Claude, OpenAI, coding agents, debugging, review, and remediation.
+- 🧠 **AI Product Implementation** — LLM features, conversational interfaces, search, and workflow automation.
+- 🌐 **Paired Web + Mobile Systems** — Shared APIs, auth, permissions, workflows, and data across web/mobile.
+- 🏗️ **Full-Stack SaaS Architecture** — React, Next.js, TypeScript, Node.js, Postgres, Supabase, and multi-tenant systems.
+- 📱 **Production Mobile Delivery** — React Native, Expo, EAS Build, TestFlight, and native device features.
+- 🔌 **Real-World Integrations** — Twilio, Plaid, Stripe, Mapbox, Google, social APIs, and webhooks.
+- 🔐 **Application Security** — OAuth, Entra ID, SSO, RBAC, RLS, tenant isolation, and API security.
+- ☁️ **Cloud + Deployment** — AWS, Azure, Vercel, serverless, CI/CD, and production releases.
+- 🧪 **Product QA + UAT** — Web/mobile validation, regression, APIs, permissions, integrations, and release testing.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <h2 align="center">⚙️ Current Stack</h2>
 
 <div align="center">
@@ -106,31 +132,5 @@ I focus on turning complex workflows into scalable products — from product arc
 ![Regression Testing](https://img.shields.io/badge/Regression_Testing-QA-238636?style=flat-square)
 ![E2E Testing](https://img.shields.io/badge/E2E_Testing-QA-238636?style=flat-square)
 ![Web + Mobile](https://img.shields.io/badge/Web_+_Mobile-Paired_Systems-0969DA?style=flat-square)
-
-</div>
-
----
-
-<h2 align="center">🚀 What I'm Building & Exploring</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-- 🤖 **AI-Assisted Engineering** — Claude, OpenAI, coding agents, debugging, review, and remediation.
-- 🧠 **AI Product Implementation** — LLM features, conversational interfaces, search, and workflow automation.
-- 🌐 **Paired Web + Mobile Systems** — Shared APIs, auth, permissions, workflows, and data across web/mobile.
-- 🏗️ **Full-Stack SaaS Architecture** — React, Next.js, TypeScript, Node.js, Postgres, Supabase, and multi-tenant systems.
-- 📱 **Production Mobile Delivery** — React Native, Expo, EAS Build, TestFlight, and native device features.
-- 🔌 **Real-World Integrations** — Twilio, Plaid, Stripe, Mapbox, Google, social APIs, and webhooks.
-- 🔐 **Application Security** — OAuth, Entra ID, SSO, RBAC, RLS, tenant isolation, and API security.
-- ☁️ **Cloud + Deployment** — AWS, Azure, Vercel, serverless, CI/CD, and production releases.
-- 🧪 **Product QA + UAT** — Web/mobile validation, regression, APIs, permissions, integrations, and release testing.
-
-</td>
-</tr>
-</table>
 
 </div>
