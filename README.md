@@ -1,3 +1,4 @@
+<img width="2000" height="500" alt="2000x500" src="https://github.com/user-attachments/assets/90a0fcaa-46c1-4172-ac47-21cf74938695" />
 <div align="center">
 
 # Gary Kozlowski
