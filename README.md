@@ -134,4 +134,6 @@ I focus on turning complex workflows into scalable products — from product arc
 ![E2E Testing](https://img.shields.io/badge/E2E_Testing-QA-238636?style=flat-square)
 ![Web + Mobile](https://img.shields.io/badge/Web_+_Mobile-Paired_Systems-0969DA?style=flat-square)
 
+<br>
+
 </div>
